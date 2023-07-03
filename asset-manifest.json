@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Modal-React/static/css/main.eab0744e.css",
+    "main.js": "/Modal-React/static/js/main.faf634f8.js",
+    "index.html": "/Modal-React/index.html",
+    "main.eab0744e.css.map": "/Modal-React/static/css/main.eab0744e.css.map",
+    "main.faf634f8.js.map": "/Modal-React/static/js/main.faf634f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eab0744e.css",
+    "static/js/main.faf634f8.js"
+  ]
+}
